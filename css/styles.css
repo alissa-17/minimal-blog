@@ -1,0 +1,70 @@
+body {
+    background-color: #FAFAF9;
+}
+
+.card-holder {
+    display: flex;
+    justify-content: center;
+    margin-top: 164px;
+    align-items: center;
+}
+
+.card {
+    background-color: #FFFFFF;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    padding: 16px 16px 20px 16px;
+    max-width: 368px;
+    border-radius: 25px;
+}
+
+.cactus-img {
+    padding-bottom: 16px;
+    border-radius: 25px;
+
+}
+
+.design-holder {
+    display: flex;
+    justify-content: left;
+}
+
+.design {
+    color: #7C19EE;
+    background-color: #F2EAFD;
+    font-size: 10px;
+    font-family: "sora";
+    border-radius: 10px;
+    font-weight: 500;
+    padding: 6px 16px;
+    margin: 0px;
+}
+
+.card-title {
+    color: #20293A;
+    font-size: 18px;
+    font-family: "sora";
+    font-weight: 600;
+    padding: 16px 0px 6px 0px;
+    margin: 0px;
+}
+
+.card-description {
+    color: #394150;
+    font-size: 14px;
+    font-family: "sora";
+    font-weight: 200;
+    padding-bottom: 20px;
+    margin: 0px;
+    width: 310px;
+}
+
+.footer-border {
+    border-top: solid 2px #E5EAF0;
+}
+
+.footer {
+    font-size: 12px;
+    font-family: "sora";
+    margin: 0px;
+    padding-top: 20px;
+}
